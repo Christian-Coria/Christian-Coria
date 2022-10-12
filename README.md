@@ -2,7 +2,7 @@
 ## 🌍 Estudio Programacion en Python :
 
 
-![](./python.png)
+![](./python.avif)
 <br/><br/>
 **Christian-Coria/Christian-Coria** is a ✨ _special_ ✨ 
 
