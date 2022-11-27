@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![](./CertificadoCoder.png)
 <br>
-![](./Certi_django.png)
+![](./certi_django.png)
 <br>
 ![](./automatizacion.png)
 <br>
@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 ![](./Paquetes.png)
 <br>
 ![](./ingles.png)
+<br>
+![](./python.avif)
 <br>
 
