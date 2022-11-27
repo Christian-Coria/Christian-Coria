@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 
 
 ![](./CertificadoCoder.png)
-<br/><br/>
+<br>
+![](./Certi django.png)
+<br>
+![](./automatizacion.png)
+<br>
+![](./interfaces_graficas.png)
+<br>
+![](./modulos_paquetes.png)
+<br>
+![](./Paquetes.png)
+<br>
+![](./ingles.png)
+<br>
+
