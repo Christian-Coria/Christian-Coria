@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![](./CertificadoCoder.png)
 <br>
-![](./Certi django.png)
+![](./Certi_django.png)
 <br>
 ![](./automatizacion.png)
 <br>
