@@ -1,8 +1,9 @@
-### Hi there 👋 Mi Nombre es Christian Coria
+### Hi there 👋 
+![](./2.png)
 ## 🌍 Estudio Programacion en Python :
 
 
-![](./python.avif)
+![](./1.png)
 <br/><br/>
 **Christian-Coria/Christian-Coria** is a ✨ _special_ ✨ 
 
