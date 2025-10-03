@@ -82,3 +82,101 @@ tech_stack = {
     'herramientas': ['Git', 'Autopsy', 'SQLite', 'Certbot'],
     'especializaciones': ['E-Learning', 'Automatización', 'DevOps']
 }
+tech_stack = {
+'lenguajes': ['Python', 'JavaScript', 'Bash'],
+'frameworks': ['Django', 'Vue.js', 'Bootstrap'],
+'infraestructura': ['Linux', 'VPS', 'OpenLiteSpeed', 'SSH'],
+'seguridad': ['SSL/TLS', 'Forense Digital', 'Ciberseguridad'],
+'herramientas': ['Git', 'Autopsy', 'SQLite', 'Certbot'],
+'especializaciones': ['E-Learning', 'Automatización', 'DevOps']
+}
+
+---
+
+## 📜 Certificaciones
+
+<div align="center">
+
+### Programación Python
+<img src="./CertificadoCoder.png" width="400" alt="Certificado CoderHouse Python"/>
+
+### Django Framework - UTN Buenos Aires
+<img src="./SmartSelect_20230918_185123_Gallery.jpg" width="400" alt="Diplomatura Django"/>
+<img src="./DjangoCertif.png" width="400" alt="Django Certificación"/>
+
+### Especialización Backend
+<img src="./SmartSelect_20230918_171748_Drive.jpg" width="400" alt="Backend Development"/>
+<img src="./SmartSelect_20230918_171856_Drive.jpg" width="400" alt="Advanced Backend"/>
+
+### Python Avanzado
+<img src="./automatizacion.png" width="400" alt="Automatización con Python"/>
+<img src="./interfaces_graficas.png" width="400" alt="Interfaces Gráficas"/>
+<img src="./SmartSelect_20230918_174748_Drive.jpg" width="400" alt="Testing"/>
+
+### Desarrollo Web Full Stack
+<img src="./Paquetes.png" width="400" alt="Django + Vue.js"/>
+<img src="./modulos_paquetes.png" width="400" alt="Módulos y Paquetes"/>
+<img src="./SmartSelect_20230918_174701_Drive.jpg" width="400" alt="Web Development"/>
+
+### Competencias Adicionales
+<img src="./SmartSelect_20230918_172027_Drive.jpg" width="400" alt="Competencias"/>
+<img src="./ingles.png" width="400" alt="Inglés Técnico"/>
+
+</div>
+
+---
+
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christian-Coria&show_icons=true&theme=tokyonight)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Coria&layout=compact&theme=tokyonight)
+  
+</div>
+
+---
+
+## 🎯 Actualmente
+
+- 🔭 Desarrollando y expandiendo **EnLinea Academy**
+- 🌱 Profundizando en **DevOps**, **Automatización** y **Análisis Forense Digital**
+- 👨‍🏫 Mentorizando a técnicos en formación en ciberseguridad móvil
+- 🔐 Investigando nuevas técnicas de forense móvil y recuperación de datos
+- 💼 Abierto a oportunidades en **Ciberseguridad**, **IT Infrastructure** y **DevOps**
+
+---
+
+## 🌟 Mi Trayectoria
+
+Mi historia en tecnología comenzó en **1998** cuando entré al mundo de la telefonía móvil como vendedor. En solo tres meses, mi dedicación me llevó a dirigir mi primera subagencia de CTI Móvil, marcando el inicio de una carrera de constante evolución.
+
+En **2001**, me uní a Telecom Personal como subagente oficial, consolidando mi expertise en telecomunicaciones. En **2004**, di el salto emprendedor abriendo mi propio negocio de telefonía, donde me especialicé en hardware y software móvil durante dos décadas.
+
+El punto de inflexión llegó en **2019** cuando decidí sumergirme en la programación de manera autodidacta. Esta decisión me llevó a graduarme en **CoderHouse** como programador Python en **2021** (Top 10 de mi clase), y a completar una **Diplomatura en Django** en la UTN Buenos Aires en **2023**.
+
+En **2024** finalicé mi formación en **Análisis Forense de Dispositivos Móviles**, cerrando el círculo perfecto: combinar mi expertise técnico de 25 años con habilidades de ciberseguridad y desarrollo web moderno.
+
+**EnLinea Academy** es la materialización de este viaje: una plataforma donde la experiencia práctica se encuentra con la innovación educativa.
+
+---
+
+## 📫 Contacto
+
+- 🌐 **Web:** [tecnicos.shop](https://tecnicos.shop)
+- 📧 **Email:** desbloqueoenlinea@gmail.com
+- 💼 **LinkedIn:** [christian-coria](https://linkedin.com/in/christian-coria)
+- 📱 **WhatsApp:** +54 351 520-5342
+
+---
+
+<div align="center">
+  
+  ### 💡 "Transformando experiencia en conocimiento, código en educación"
+  
+  ⭐ **Si te interesa la ciberseguridad móvil, el análisis forense o el desarrollo con Django, ¡conectemos!**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Christian-Coria&color=blue&style=flat-square)
+  
+</div>
