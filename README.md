@@ -95,35 +95,35 @@ tech_stack = {
 
 ## 📜 Certificaciones
 
-<div align="center">
 
-### Programación Python
-<img src="./CertificadoCoder.png" width="400" alt="Certificado CoderHouse Python"/>
 
-### Django Framework - UTN Buenos Aires
-<img src="./SmartSelect_20230918_185123_Gallery.jpg" width="400" alt="Diplomatura Django"/>
-<img src="./DjangoCertif.png" width="400" alt="Django Certificación"/>
+![](./CertificadoCoder.png)
+<br>
+![](./SmartSelect_20230918_171748_Drive.jpg)
+<br>
+![](./SmartSelect_20230918_171856_Drive.jpg)
+<br>
+![](./SmartSelect_20230918_185123_Gallery.jpg)
+<br>
+![](./DjangoCertif.png)
+<br>
+![](./automatizacion.png)
+<br>
+![](./SmartSelect_20230918_174701_Drive.jpg)
+<br>
+![](./SmartSelect_20230918_174748_Drive.jpg)
+<br>
+![](./SmartSelect_20230918_174748_Drive.jpg)
+<br>
+![](./interfaces_graficas.png)
+<br>
+![](./modulos_paquetes.png)
+@@ -31,4 +60,5 @@ Here are some ideas to get you started:
+<br>
+![](./python.avif)
+<br>
 
-### Especialización Backend
-<img src="./SmartSelect_20230918_171748_Drive.jpg" width="400" alt="Backend Development"/>
-<img src="./SmartSelect_20230918_171856_Drive.jpg" width="400" alt="Advanced Backend"/>
-
-### Python Avanzado
-<img src="./automatizacion.png" width="400" alt="Automatización con Python"/>
-<img src="./interfaces_graficas.png" width="400" alt="Interfaces Gráficas"/>
-<img src="./SmartSelect_20230918_174748_Drive.jpg" width="400" alt="Testing"/>
-
-### Desarrollo Web Full Stack
-<img src="./Paquetes.png" width="400" alt="Django + Vue.js"/>
-<img src="./modulos_paquetes.png" width="400" alt="Módulos y Paquetes"/>
-<img src="./SmartSelect_20230918_174701_Drive.jpg" width="400" alt="Web Development"/>
-
-### Competencias Adicionales
-<img src="./SmartSelect_20230918_172027_Drive.jpg" width="400" alt="Competencias"/>
-<img src="./ingles.png" width="400" alt="Inglés Técnico"/>
-
-</div>
-
+![](./SmartSelect_20230918_172027_Drive.jpg)
 ---
 
 ## 📊 Estadísticas GitHub
