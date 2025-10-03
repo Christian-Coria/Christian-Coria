@@ -94,32 +94,23 @@ tech_stack = {
 ---
 
 ## 📜 Certificaciones
-![Certificado CoderHouse](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/CertificadoCoder.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/CertificadoCoder.png" width="400" alt="Certificado CoderHouse Python"/>
+## 📜 Certificaciones
 
-![Django Certificación](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/DjangoCertif.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/DjangoCertif.png" width="400" alt="Django Certificación"/>
+![Certificado CoderHouse](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/CertificadoCoder.png)
 
-![Django + Vue.js](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/Paquetes.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/Paquetes.png" width="400" alt="Django + Vue.js"/>
+![Django Certificación](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/DjangoCertif.png)
 
-![Módulos y Paquetes](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/modulos_paquetes.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/modulos_paquetes.png" width="400" alt="Módulos y Paquetes"/>
+![Django + Vue.js](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/Paquetes.png)
 
-![Automatización con Python](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/automatizacion.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/automatizacion.png" width="400" alt="Automatización con Python"/>
+![Módulos y Paquetes](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/modulos_paquetes.png)
 
-![Interfaces Gráficas](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/interfaces_graficas.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/interfaces_graficas.png" width="400" alt="Interfaces Gráficas"/>
+![Automatización con Python](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/automatizacion.png)
 
-![Inglés Técnico](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/ingles.png)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/ingles.png" width="400" alt="Inglés Técnico"/>
+![Interfaces Gráficas](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/interfaces_graficas.png)
 
-![Foto Perfil](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/foto_perfil2.jpg)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/foto_perfil2.jpg" width="400" alt="Foto Perfil"/>
+![Inglés Técnico](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/ingles.png)
 
-![Python](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/python.avif)  
-<img src="https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/python.avif" width="400" alt="Python"/>
+![Foto Perfil](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/foto_perfil2.jpg)
 
 ---
 
