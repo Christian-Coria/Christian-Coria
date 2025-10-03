@@ -96,21 +96,17 @@ tech_stack = {
 ## 📜 Certificaciones
 ## 📜 Certificaciones
 
-![Certificado CoderHouse](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/CertificadoCoder.png)
+| Certificado CoderHouse | Django Certificación | Django + Vue.js |
+|------------------------|--------------------|----------------|
+| ![Certificado CoderHouse](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/CertificadoCoder.png) | ![Django Certificación](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/DjangoCertif.png) | ![Django + Vue.js](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/Paquetes.png) |
 
-![Django Certificación](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/DjangoCertif.png)
+| Módulos y Paquetes | Automatización con Python | Interfaces Gráficas |
+|-------------------|--------------------------|-------------------|
+| ![Módulos y Paquetes](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/modulos_paquetes.png) | ![Automatización con Python](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/automatizacion.png) | ![Interfaces Gráficas](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/interfaces_graficas.png) |
 
-![Django + Vue.js](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/Paquetes.png)
-
-![Módulos y Paquetes](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/modulos_paquetes.png)
-
-![Automatización con Python](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/automatizacion.png)
-
-![Interfaces Gráficas](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/interfaces_graficas.png)
-
-![Inglés Técnico](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/ingles.png)
-
-![Foto Perfil](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/foto_perfil2.jpg)
+| Inglés Técnico | Foto Perfil |  |
+|---------------|------------|--|
+| ![Inglés Técnico](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/ingles.png) | ![Foto Perfil](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/foto_perfil2.jpg) |  |
 
 ---
 
