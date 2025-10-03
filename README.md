@@ -94,36 +94,19 @@ tech_stack = {
 ---
 
 ## 📜 Certificaciones
+![Banner](./2.png)
+![Python Study](./1.png)
 
+<img src="./CertificadoCoder.png" width="400" alt="Certificado CoderHouse Python"/>
+<img src="./DjangoCertif.png" width="400" alt="Django Certificación"/>
+<img src="./Paquetes.png" width="400" alt="Django + Vue.js"/>
+<img src="./modulos_paquetes.png" width="400" alt="Módulos y Paquetes"/>
+<img src="./automatizacion.png" width="400" alt="Automatización con Python"/>
+<img src="./interfaces_graficas.png" width="400" alt="Interfaces Gráficas"/>
+<img src="./ingles.png" width="400" alt="Inglés Técnico"/>
+<img src="./foto_perfil2.jpg" width="400" alt="Foto Perfil"/>
+<img src="./python.avif" width="400" alt="Python"/>
 
-
-![](./CertificadoCoder.png)
-<br>
-![](./SmartSelect_20230918_171748_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_171856_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_185123_Gallery.jpg)
-<br>
-![](./DjangoCertif.png)
-<br>
-![](./automatizacion.png)
-<br>
-![](./SmartSelect_20230918_174701_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_174748_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_174748_Drive.jpg)
-<br>
-![](./interfaces_graficas.png)
-<br>
-![](./modulos_paquetes.png)
-@@ -31,4 +60,5 @@ Here are some ideas to get you started:
-<br>
-![](./python.avif)
-<br>
-
-![](./SmartSelect_20230918_172027_Drive.jpg)
 ---
 
 ## 📊 Estadísticas GitHub
