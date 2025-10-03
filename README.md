@@ -1,12 +1,14 @@
 ### Hi there 👋 
-![](./2.png)
-## 🌍 Estudio Programacion en Python :
+![Banner](./2.png)
 
+## 🌍 Estudio Programación en Python
+![Python Study](./1.png)
 
-![](./1.png)
 <br/><br/>
-**Christian-Coria/Christian-Coria** is a ✨ _special_ ✨ 
 
+**Christian-Coria/Christian-Coria** is a ✨ *special* ✨ repository
+
+---
 
 # 👋 Christian Coria | Fundador de EnLinea Academy
 
@@ -80,34 +82,3 @@ tech_stack = {
     'herramientas': ['Git', 'Autopsy', 'SQLite', 'Certbot'],
     'especializaciones': ['E-Learning', 'Automatización', 'DevOps']
 }
-
-![](./CertificadoCoder.png)
-<br>
-![](./SmartSelect_20230918_171748_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_171856_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_185123_Gallery.jpg)
-<br>
-![](./DjangoCertif.png)
-<br>
-![](./automatizacion.png)
-<br>
-![](./SmartSelect_20230918_174701_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_174748_Drive.jpg)
-<br>
-![](./SmartSelect_20230918_174748_Drive.jpg)
-<br>
-![](./interfaces_graficas.png)
-<br>
-![](./modulos_paquetes.png)
-<br>
-![](./Paquetes.png)
-<br>
-![](./ingles.png)
-<br>
-![](./python.avif)
-<br>
-![](./SmartSelect_20230918_172027_Drive.jpg)
-<br>
