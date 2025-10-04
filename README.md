@@ -145,6 +145,4 @@ En **2024** finalicé mi formación en **Análisis Forense de Dispositivos Móvi
   
   ⭐ **Si te interesa la ciberseguridad móvil, el análisis forense o el desarrollo con Django, ¡conectemos!**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Christian-Coria&color=blue&style=flat-square)
-  
 </div>
