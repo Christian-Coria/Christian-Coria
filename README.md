@@ -93,20 +93,6 @@ tech_stack = {
 
 ---
 
-## 📜 Certificaciones
-
-| Certificado CoderHouse | Django Certificación | Django + Vue.js |
-|:----------------------:|:------------------:|:--------------:|
-| ![Certificado CoderHouse](./CertificadoCoder.png) | ![Django Certificación](./DjangoCertif.png) | ![Django + Vue.js](./Paquetes.png) |
-
-| Módulos y Paquetes | Automatización con Python | Interfaces Gráficas |
-|:-----------------:|:------------------------:|:-----------------:|
-| ![Módulos y Paquetes](./modulos_paquetes.png) | ![Automatización con Python](./automatizacion.png) | ![Interfaces Gráficas](./interfaces_graficas.png) |
-
-| Inglés Técnico | Foto Perfil |
-|:-------------:|:----------:|
-| ![Inglés Técnico](./ingles.png) | ![Foto Perfil](./foto_perfil2.jpg) |
-
 
 ## 📊 Estadísticas GitHub
 
