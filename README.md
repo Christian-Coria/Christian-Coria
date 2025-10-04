@@ -94,21 +94,19 @@ tech_stack = {
 ---
 
 ## 📜 Certificaciones
-## 📜 Certificaciones
 
 | Certificado CoderHouse | Django Certificación | Django + Vue.js |
-|------------------------|--------------------|----------------|
-| ![Certificado CoderHouse](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/CertificadoCoder.png) | ![Django Certificación](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/DjangoCertif.png) | ![Django + Vue.js](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/Paquetes.png) |
+|:----------------------:|:------------------:|:--------------:|
+| ![Certificado CoderHouse](./CertificadoCoder.png) | ![Django Certificación](./DjangoCertif.png) | ![Django + Vue.js](./Paquetes.png) |
 
 | Módulos y Paquetes | Automatización con Python | Interfaces Gráficas |
-|-------------------|--------------------------|-------------------|
-| ![Módulos y Paquetes](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/modulos_paquetes.png) | ![Automatización con Python](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/automatizacion.png) | ![Interfaces Gráficas](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/interfaces_graficas.png) |
+|:-----------------:|:------------------------:|:-----------------:|
+| ![Módulos y Paquetes](./modulos_paquetes.png) | ![Automatización con Python](./automatizacion.png) | ![Interfaces Gráficas](./interfaces_graficas.png) |
 
-| Inglés Técnico | Foto Perfil |  |
-|---------------|------------|--|
-| ![Inglés Técnico](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/ingles.png) | ![Foto Perfil](https://raw.githubusercontent.com/Christian-Coria/Christian-Coria/main/foto_perfil2.jpg) |  |
+| Inglés Técnico | Foto Perfil |
+|:-------------:|:----------:|
+| ![Inglés Técnico](./ingles.png) | ![Foto Perfil](./foto_perfil2.jpg) |
 
----
 
 ## 📊 Estadísticas GitHub
 
